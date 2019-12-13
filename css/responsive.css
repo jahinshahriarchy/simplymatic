@@ -42,6 +42,10 @@
 
 /* LG  Device :992px. */
 @media (min-width: 992px) and (max-width: 1200px) {
+	
+	.main-menu ul li {
+    margin: 0 8px;
+}
 
 .slider-height {
 	min-height: 835px;
@@ -120,11 +124,64 @@
 	.slider-area.slider-height.slider-height-3 {
 		min-height: 804px;
 	}
+	
+	.inner-blog {
+	padding: 0 20px;
+}
+	.latest-row {
+		margin-bottom: 75px;
+	}
 
+	.how-work-text.pt-150 {
+		padding-top: 0;
+		margin-bottom: 35px;
+	}
 
+	.get-app a {
+		margin: 0 1px;
+	}
+
+	.cta-area {
+
+		padding: 36px 0px;
+	}
+
+	.cta-area-title {
+		text-align: center;
+		margin-bottom: 30px;
+	}
+
+	.cta-form input {
+		width: 96%;
+
+	}
+
+	.slider-area.slider-height.slider-height-5 {
+		background-position: center top;
+	}
+
+	.section-title-6 {
+		margin-top: 8px;
+	}
+.work-text p {
+	padding: 0 15px;
+}
+.single-hover {
+	box-shadow: 0px 43px 120px 0px rgba(0, 0, 0, 0.12);
+}
+.how-works-area-4{
+	padding-bottom: 80px;
+}
+.header-area.sticky {
+	padding-bottom: 0;
+}
 
 
 }
+
+
+
+
 
 
 /* small mobile (XS) :320px. */
@@ -263,14 +320,118 @@
 	.slider-img img {
 		width: 100%;
 	}
-	
+
+	.counter-titles-area h2 {
+		font-size: 27px;
+		color: #38363d;
+		line-height: 1.4;
+	}
+
+	.why-choose-img.why-choose-img-3 {
+		margin-bottom: 10px;
+	}
+
+	.why-choose-area.bg-why {
+		padding-bottom: 50px;
+	}
+
+.how-work-text.how-work-text-3 {
+	margin-top: 0;
+	margin-bottom: 28px;
+}
+
 	.how-work-img img {
-    width: 100%;
+		width: 100%;
+	}
+
+
+.get-app-4 a {
+	padding: 9px 15px;
+	margin: 0 1px;
+}
+
+	.slider-content-space4 {
+		margin: 0 0px;
+	}
+
+	.why-choose-area.bg-why {
+		padding-bottom: 50px;
+	}
+
+	.why-choose-img.why-choose-img-4 {
+		margin-bottom: 10px;
+	}
+
+	.how-work-img-4 img {
+		margin-top: 31px;
+	}
+.how-works-area.how-works-area-4 {
+	padding-bottom: 80px;
+}
+
+	.faq-thumb img {
+		width: 100%;
+	}
+
+	.why-choose-img img {
+		width: 100%;
+	}
+
+.aps-titles h2 {
+	font-size: 35px;
+	line-height: 1;
+}
+
+	.get-app a {
+		margin-bottom: 20px;
+	}
+
+	.single-fact-5 {
+		margin-bottom: 55px;
+	}
+
+	.section-title-6 {
+		margin-top: 70px;
+	}
+
+	.slider-content-space5 {
+		padding-top: 218px;
+		margin: 0 0px;
+	}
+
+	.section-title-6 h2 {
+		font-size: 28px;
+	}
+
+	.how-work-img.how-work-img-6 {
+		margin-top: 34px;
+		margin-bottom: 35px;
+	}
+.how-work-text {
+	padding-top: 0;
+}
+.faq-thumb img {
+	margin-left: 0;
+}
+.why-choose-img {
+	margin-left: 0;
+}
+.single-news-thumb img {
+	width: 100%;
+}
+.single-hover {
+	box-shadow: 0px 43px 120px 0px rgba(0, 0, 0, 0.12);
+}
+.work-area.work-area-5 {
+	padding-top: 110px;
+}
+.header-area.sticky {
+	padding-bottom: 0;
+}
+
 }
 
 
-
-}
 
 
 
